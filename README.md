@@ -34,5 +34,9 @@ Laravel環境構築　　
 <img width="793" height="235" alt="Image" src="https://github.com/user-attachments/assets/e186d9b6-8ec5-4e60-965c-6753c9728212" />
 <img width="799" height="308" alt="Image" src="https://github.com/user-attachments/assets/4f761256-7626-4337-a3d9-7e1578066bb6" />
 <img width="795" height="305" alt="Image" src="https://github.com/user-attachments/assets/fc85e68c-227c-4852-ac9b-1cb8d88d6034" />
-<img width="795" height="292" alt="Image" src="https://github.com/user-attachments/assets/a9a88fba-fe10-4e07-ad59-0a7f5b214ea4" />
+<img width="795" height="292" alt="Image" src="https://github.com/user-attachments/assets/a9a88fba-fe10-4e07-ad59-0a7f5b214ea4" />　　
+<img width="790" height="292" alt="Image" src="https://github.com/user-attachments/assets/bbaa7096-0334-4511-8f84-41f80efde5db" />　　
+
+ER図　　
+
 
