@@ -27,8 +27,12 @@ Laravel環境構築　　
 ・MySQL8.0.26  
 
 テーブル設計　　
+
 <img width="789" height="291" alt="Image" src="https://github.com/user-attachments/assets/d3bfa89b-7a6a-4c5a-b660-1e7d293a21cf" />
 <img width="797" height="292" alt="Image" src="https://github.com/user-attachments/assets/7120b61b-07f8-48c7-8238-4e14668b9530" />
 <img width="795" height="293" alt="Image" src="https://github.com/user-attachments/assets/458a2c35-d776-4fe6-b49a-cdd3cc13782b" />
 <img width="793" height="235" alt="Image" src="https://github.com/user-attachments/assets/e186d9b6-8ec5-4e60-965c-6753c9728212" />
+<img width="799" height="308" alt="Image" src="https://github.com/user-attachments/assets/4f761256-7626-4337-a3d9-7e1578066bb6" />
+<img width="795" height="305" alt="Image" src="https://github.com/user-attachments/assets/fc85e68c-227c-4852-ac9b-1cb8d88d6034" />
+<img width="795" height="292" alt="Image" src="https://github.com/user-attachments/assets/a9a88fba-fe10-4e07-ad59-0a7f5b214ea4" />
 
