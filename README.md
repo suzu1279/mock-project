@@ -37,6 +37,13 @@ Laravel環境構築　　
 <img width="795" height="292" alt="Image" src="https://github.com/user-attachments/assets/a9a88fba-fe10-4e07-ad59-0a7f5b214ea4" />　　
 <img width="790" height="292" alt="Image" src="https://github.com/user-attachments/assets/bbaa7096-0334-4511-8f84-41f80efde5db" />　　
 
-ER図　　
+ER図　
+
+<img width="477" height="392" alt="Image" src="https://github.com/user-attachments/assets/93f19b36-a68b-4a18-a071-7ec42728e930" />　　
+
+URL  
+・開発環境：http://localhost/　　
+・phpMyAdmin:：http://localhost:8080/　　
+
 
 
