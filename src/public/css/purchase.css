@@ -1,0 +1,150 @@
+.purchase-page{
+    display: grid;
+    grid-template-columns: 1fr 420px;
+    gap: 28px;
+    align-items: start;
+    padding: 30px 15px;
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.product-card{
+    padding: 16px;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.product-image{
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.product-name{
+    font-size: 1.25rem;
+    margin: 6px 250px 12px;
+}
+
+.product-price{
+    font-weight: 700;
+    margin: 6px 250px 50px;
+}
+
+.label{
+    display: block;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+.select{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #696969;
+    border-radius: 6px;
+    margin-top: 6px;
+    background: #fff;
+}
+
+.delivery-info{
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #f8f8f8;
+    border-radius: 6px;
+    font-size: 0.95rem;
+}
+
+.delivery-info h4{
+    margin: 0 0 6px;
+}
+
+summary-box{
+    border: 1px solid #ff69b4;
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #fff;
+    margin-bottom: 12px;
+}
+
+.summary-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.summary-table th,
+.summary-table td{
+    padding: 12px 16px;
+    vertical-align: middle;
+}
+
+.summary-table .label{
+    text-align: left;
+    font-weight: 500;
+    color: #333;
+    width: 60%;
+    
+}
+
+.summary-table .value{
+    text-align: right;
+    font-weight: 600;
+    color: #333;
+    width: 50%;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    font-size: 0.95rem;
+}
+
+.divider{
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 8px 0;
+}
+
+.total{
+    font-weight: 700;
+    font-size: 1.05rem;
+}
+
+.btn{
+    display: inline-block;
+    padding: 12px 16px;
+    border-radius: 6px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn.primary{
+    background-color: #e91e63;
+    color: #fff;
+    border: none;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.purchase-form{
+    margin-top: 8px;
+}
+
+.delivery__info-change{
+    color: blue;
+    padding-left: 500px;
+}
+
+.post-code{
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+.address{
+    font-weight: bold;
+    padding-left: 50px;
+}

@@ -1,0 +1,145 @@
+.index-form__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.index-form__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.form__group {
+    margin-bottom: 30px;
+}
+
+.form__group-title {
+    font-weight: bold;
+    padding-right: 30px;
+}
+
+.form__label--item {
+    padding-right: 500px;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text input {
+    padding: 8px 16px;
+    width: 600px;
+    border-radius: 3px;
+    height: 40px;
+    appearance: none;
+    border-width: 1px;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 80%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background: #ddd;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.user-name {
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 40px;
+    padding-left: 100px;
+    width: 250px;
+}
+
+.profile-edit {
+    padding-left: 400px;
+    width: 650px;
+
+}
+
+.profile__edit--link {
+    cursor: pointer;
+    color: #ff0000;
+    font-size: 18px;
+    width: 200px;
+    border: 1px solid red;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.item-table {
+    margin: 30px auto;
+    width: 70%;
+    text-align: center;
+}
+
+.item-table__inner {
+    width: 100%;
+}
+
+.item-table__row {
+    border-bottom: 1px solid #000;
+}
+
+.item-table__header {
+    padding: 12px;
+    width: 20%;
+    text-align: left;
+    font-weight: bold;
+}
+
+.item-table__header-span {
+    margin-right: 5%;
+}
+
+.item-image{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+
+}
+
+.image{
+    height: 200px;
+    width: 350px;
+    margin-top: 20px;
+    margin-left: -100px;
+}
+
+.sold-label{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.sold-out{
+    margin-top: -20px;
+    color: #ff0000;
+}

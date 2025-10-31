@@ -1,0 +1,78 @@
+.profile-form__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.profile-form__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.form__group {
+    margin-bottom: 30px;
+}
+
+.form__group-title {
+    font-weight: bold;
+    padding-right: 30px;
+}
+
+.form__label--item {
+    padding-right: 500px;
+}
+
+.form__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form__input--text input {
+    padding: 8px 16px;
+    width: 600px;
+    border-radius: 3px;
+    height: 40px;
+    appearance: none;
+    border-width: 1px;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 80%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background: #ddd;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+.form__error {
+    height: 30px;
+    color: #ff0000;
+    margin: 0 auto;
+    width: 100%;
+    text-align: left;
+    padding-left: 80px;
+}
+

@@ -1,0 +1,162 @@
+.detail-page {
+    margin: 0 auto;
+    padding: 30px 30px;
+    max-width: 1230px;
+}
+
+.left-content {
+    margin-left: 30px;
+}
+
+
+.name-label {
+    padding-left: 500px;
+    font-size: 30px;
+    margin-top: -300px;
+    margin-bottom: 5px;
+}
+
+
+.brand-name{
+    padding-left: 500px;
+}
+
+.price-label{
+    padding-left: 500px;
+    font-size: 24px;
+}
+
+.sell-button_form{
+    padding-left: 500px;
+
+}
+
+.sell-button{
+    width: 300px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.item-description{
+    padding-left: 500px;
+    font-size: 20px;
+}
+
+.color-label{
+    padding-left: 500px;
+}
+
+.detail-label{
+    padding-left: 500px;
+}
+
+.item-information{
+    padding-left: 500px;
+    font-size: 20px;
+}
+
+.category-label{
+    padding-left:500px;
+    font-weight: bold;
+}
+
+.condition-label{
+    padding-left:500px;
+    font-weight: bold;
+}
+
+.comment-label{
+    padding-left: 500px;
+    font-weight: bold;
+    color: #808080;
+    font-size: 20px;
+}
+
+.comment-user{
+    padding-left: 500px;
+    font-weight: bold;
+}
+
+.comment{
+    padding-left: 500px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.comment-area{
+    padding-left: 500px;
+}
+
+.item_comment-area{
+    width: 300px;
+    height: 150px;
+}
+
+.comment-button_form{
+    padding-left: 500px;
+}
+
+.comment-button{
+    width: 300px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.item-image {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+}
+
+.image {
+    height: 300px;
+    width: 800px;
+    margin-top: 20px;
+    padding-left: 100px;
+}
+
+.like__button--form{
+    padding-left: 500px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+
+}
+
+.like-button{
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.comment-mark{
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.condition{
+    padding-left: 20px;
+    font-weight: lighter;
+}
+
+.description{
+    padding-left: 20px;
+}
+
+.form__error {
+    height: 30px;
+    color: #ff0000;
+    margin: 0 auto;
+    width: 100%;
+    text-align: left;
+    padding-right: 150px;
+}
+
